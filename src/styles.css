@@ -1,0 +1,16 @@
+button {
+  background: linear-gradient(
+    to right,
+    rgba(255, 0, 0, 0.712),
+    rgba(0, 0, 255, 0.424)
+  );
+  color: white;
+  padding: 8px;
+  border-radius: 5px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+}
+body {
+  font-family: sans-serif;
+}
